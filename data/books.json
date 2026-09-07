@@ -1,47 +1,37 @@
 [
 	{
 		"id": 1,
-		"title": "The Great Gatsby",
+		"name": "The Great Gatsby",
 		"author": "F. Scott Fitzgerald",
-		"isbn": "9780743273565",
-		"category": "Classic",
-		"publishedYear": 1925,
+		"quantity": 1,
 		"available": true
 	},
 	{
 		"id": 2,
-		"title": "To Kill a Mockingbird",
+		"name": "To Kill a Mockingbird",
 		"author": "Harper Lee",
-		"isbn": "9780061120084",
-		"category": "Fiction",
-		"publishedYear": 1960,
+		"quantity": 2,
 		"available": true
 	},
 	{
 		"id": 3,
-		"title": "1984",
+		"name": "1984",
 		"author": "George Orwell",
-		"isbn": "9780451524935",
-		"category": "Dystopian",
-		"publishedYear": 1949,
+		"quantity": 3,
 		"available": false
 	},
 	{
 		"id": 4,
-		"title": "Clean Code",
+		"name": "Clean Code",
 		"author": "Robert C. Martin",
-		"isbn": "9780132350884",
-		"category": "Technology",
-		"publishedYear": 2008,
+		"quantity": 4,
 		"available": true
 	},
 	{
 		"id": 5,
-		"title": "The Hobbit",
+		"name": "The Hobbit",
 		"author": "J. R. R. Tolkien",
-		"isbn": "9780547928227",
-		"category": "Fantasy",
-		"publishedYear": 1937,
+		"quantity": 5,
 		"available": true
 	}
 ]
